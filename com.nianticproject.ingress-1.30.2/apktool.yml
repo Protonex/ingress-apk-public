@@ -1,0 +1,13 @@
+version: 1.5.2
+apkFileName: com.nianticproject.ingress-1.30.2.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '9'
+  targetSdkVersion: '17'
+packageInfo:
+  cur_package: com.nianticproject.ingress
+  orig_package: com.nianticproject.ingress
+compressionType: false

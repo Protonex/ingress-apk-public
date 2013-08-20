@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <fragment android:id="@id/progress_fragment" android:layout_width="fill_parent" android:layout_height="fill_parent" class="com.nianticproject.ingress.signon.WheelsOfAdaProgressFragment" />
+    <LinearLayout android:orientation="vertical" android:padding="24.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textColor="@color/foreground" android:layout_gravity="center_vertical" android:paddingRight="6.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sound_is_on" style="@style/Nemesis.Widget.TextView" />
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/speaker_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/volume_speaker" />
+        </LinearLayout>
+        <Button android:layout_gravity="center_horizontal" android:id="@id/mute_button" android:paddingLeft="24.0dip" android:paddingRight="24.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:text="@string/action_mute" style="@style/Nemesis.Widget.Modern.Button.ActionButton.Neutral" />
+    </LinearLayout>
+</RelativeLayout>

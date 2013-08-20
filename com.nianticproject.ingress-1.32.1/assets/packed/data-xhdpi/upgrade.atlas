@@ -1,0 +1,96 @@
+
+upgrade.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hex-button-checked
+  rotate: false
+  xy: 1, 103
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hex-button-down
+  rotate: false
+  xy: 131, 103
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hex-button-up
+  rotate: false
+  xy: 261, 103
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+mod_button_rarity-EMP_BURSTER
+  rotate: false
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+mod_button_rarity-FORCE_AMP
+  rotate: false
+  xy: 391, 131
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+mod_button_rarity-HEATSINK
+  rotate: false
+  xy: 103, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+mod_button_rarity-LINK_AMPLIFIER
+  rotate: false
+  xy: 493, 131
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+mod_button_rarity-MULTIHACK
+  rotate: false
+  xy: 205, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+mod_button_rarity-RES_SHIELD
+  rotate: false
+  xy: 595, 131
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+mod_button_rarity-TURRET
+  rotate: false
+  xy: 697, 131
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+mod_button_rarity-ULTRA_STRIKE
+  rotate: false
+  xy: 799, 131
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+mod_button-empty
+  rotate: false
+  xy: 307, 35
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+resonator_level_tint_icon
+  rotate: false
+  xy: 901, 141
+  size: 50, 90
+  orig: 50, 90
+  offset: 0, 0
+  index: -1

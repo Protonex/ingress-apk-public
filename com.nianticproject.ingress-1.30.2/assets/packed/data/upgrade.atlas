@@ -1,0 +1,306 @@
+
+upgrade.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mod_button-FORCE_AMP_COMMON
+  rotate: false
+  xy: 1, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-FORCE_AMP_EXTRARE
+  rotate: false
+  xy: 1, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-FORCE_AMP_LESSCOMMON
+  rotate: false
+  xy: 1, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-FORCE_AMP_RARE
+  rotate: false
+  xy: 1, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-FORCE_AMP_VERYCOMMON
+  rotate: false
+  xy: 1, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-FORCE_AMP_VERYRARE
+  rotate: false
+  xy: 1, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-HEAT_SINK_COMMON
+  rotate: false
+  xy: 1, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-HEAT_SINK_EXTRARE
+  rotate: false
+  xy: 73, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-HEAT_SINK_LESSCOMMON
+  rotate: false
+  xy: 1, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-HEAT_SINK_RARE
+  rotate: false
+  xy: 73, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-HEAT_SINK_VERYCOMMON
+  rotate: false
+  xy: 145, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-HEAT_SINK_VERYRARE
+  rotate: false
+  xy: 73, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-LINK_AMPLIFIER_COMMON
+  rotate: false
+  xy: 145, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-LINK_AMPLIFIER_EXTRARE
+  rotate: false
+  xy: 145, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-LINK_AMPLIFIER_LESSCOMMON
+  rotate: false
+  xy: 145, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-LINK_AMPLIFIER_RARE
+  rotate: false
+  xy: 145, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-LINK_AMPLIFIER_VERYCOMMON
+  rotate: false
+  xy: 145, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-LINK_AMPLIFIER_VERYRARE
+  rotate: false
+  xy: 145, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-MULTI_HACK_COMMON
+  rotate: false
+  xy: 217, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-MULTI_HACK_EXTRARE
+  rotate: false
+  xy: 145, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-MULTI_HACK_LESSCOMMON
+  rotate: false
+  xy: 217, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-MULTI_HACK_RARE
+  rotate: false
+  xy: 289, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-MULTI_HACK_VERYCOMMON
+  rotate: false
+  xy: 217, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-MULTI_HACK_VERYRARE
+  rotate: false
+  xy: 289, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-RES_SHIELD_COMMON
+  rotate: false
+  xy: 361, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-RES_SHIELD_EXTRARE
+  rotate: false
+  xy: 289, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-RES_SHIELD_LESSCOMMON
+  rotate: false
+  xy: 361, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-RES_SHIELD_RARE
+  rotate: false
+  xy: 433, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-RES_SHIELD_VERYCOMMON
+  rotate: false
+  xy: 361, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-RES_SHIELD_VERYRARE
+  rotate: false
+  xy: 433, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-RES_XMP_COMMON
+  rotate: false
+  xy: 505, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-RES_XMP_EXTRARE
+  rotate: false
+  xy: 433, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-RES_XMP_LESSCOMMON
+  rotate: false
+  xy: 505, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-RES_XMP_RARE
+  rotate: false
+  xy: 577, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-RES_XMP_VERYCOMMON
+  rotate: false
+  xy: 505, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-RES_XMP_VERYRARE
+  rotate: false
+  xy: 577, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-TURRET_COMMON
+  rotate: false
+  xy: 649, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-TURRET_EXTRARE
+  rotate: false
+  xy: 649, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-TURRET_LESSCOMMON
+  rotate: false
+  xy: 649, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-TURRET_RARE
+  rotate: false
+  xy: 649, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-TURRET_VERYCOMMON
+  rotate: false
+  xy: 649, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-TURRET_VERYRARE
+  rotate: false
+  xy: 649, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mod_button-empty
+  rotate: false
+  xy: 577, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
